@@ -29,3 +29,4 @@
 
 - **/lfg help** -- Get help for how to use the commands
 
+![](https://github.com/matt-cim/public/blob/main/demo.gif)
